@@ -1,0 +1,12 @@
+{
+  "ip_blacklist": [
+    "192.168.1.15",
+    "10.0.0.42"
+  ],
+  "keywords": [
+    "Failed password",
+    "Invalid user",
+    "unauthorized",
+    "possible break-in attempt"
+  ]
+}
